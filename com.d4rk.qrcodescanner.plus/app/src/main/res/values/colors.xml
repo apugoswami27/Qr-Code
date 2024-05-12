@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorAccent">#4285F4</color>
+    <color name="colorShortcutBackground">#C1E8FF</color>
+    <color name="colorShortcutForeground">#40484D</color>
+    <color name="colorLauncherBackground">#FFFFFF</color>
+    <color name="colorLauncherForeground">#000000</color>
+</resources>
